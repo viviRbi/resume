@@ -1,6 +1,8 @@
 
 body{
   padding: 0 3vw;
+  margin-top:0;
+  margin-bottom: 0;
 }
 header div{
   display: flex;
