@@ -51,13 +51,14 @@ main article div:nth-child(2){
 }
 .exp article div:nth-child(2) h5{
   font-weight: 300;
+  padding-top: 10px;
   margin-bottom: 3px;
   font-size: 15px;
-  line-height: 0;
 }
 .exp article ul {
-  margin-top: 2px 0;
+  margin-top: 13px;
   padding-top: 0;
+  margin-bottom: 20px;
 }
 .exp article h5:first-child{
   font-weight: 600;
