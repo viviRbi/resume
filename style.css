@@ -1,6 +1,6 @@
 
 body{
-  padding: 0 6vw;
+  padding: 0 3vw;
 }
 header div{
   display: flex;
@@ -69,16 +69,19 @@ main article div:nth-child(2){
 .exp article h5{
   font-weight: 100;
   font-size: 13px;
-  line-height: 1px;
+  margin: 1px 0;
 }
 .exp h4{
-  margin: 0;
+  margin: 1px 0;
 }
 .exp article div li{
   line-height: 20px;
 }
 /* --------------- ref ---------------- */
 .ref h5{
-  margin: 1vh 0;
+  margin: 0;
   font-weight: 100;
+}
+.ref{
+  margin-top: -5px;
 }
