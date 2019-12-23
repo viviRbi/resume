@@ -85,6 +85,10 @@ main article div:nth-child(2){
 .exp article div li{
   line-height: 20px;
 }
+.exp article div h5 span{
+  font-weight: 100;
+  font-size: 13px;
+}
 /* --------------- ref ---------------- */
 .edu h5, .ref h5{
   font-weight: 200;
