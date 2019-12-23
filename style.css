@@ -44,17 +44,18 @@ main article div:nth-child(2){
 .exp{
   margin-top: 2vh;
 }
-.exp h5{
-  font-weight: 100;
-  line-height: 1px;
+.exp article div:first-child{
+  margin-left: -25px;
+  margin-right: 25px;
 }
+
 .exp article h5:first-child{
   font-weight: 600;
   line-height: 1.2vh;
   font-size: 14px;
 }
 .exp article h5:nth-child(2){
-  font-weight: 500;
+  font-weight: 200;
   font-size: 14px;
 }
 .exp h4{
