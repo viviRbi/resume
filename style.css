@@ -51,7 +51,7 @@ main article div:nth-child(2){
 
 .exp article h5:first-child{
   font-weight: 600;
-  line-height: 1.2vh;
+  line-height: 10px;
   font-size: 14px;
 }
 .exp article h5:nth-child(2){
@@ -61,6 +61,7 @@ main article div:nth-child(2){
 .exp article h5{
   font-weight: 100;
   font-size: 13px;
+  line-height: 1px;
 }
 .exp h4{
   margin: 0;
