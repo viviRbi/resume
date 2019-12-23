@@ -1,5 +1,8 @@
+*{
+  margin: 3px 3px;
+}
 body{
-  padding: 5vh 10vw;
+  padding: 2vh 10vw;
 }
 header div{
   display: flex;
