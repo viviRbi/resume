@@ -1,6 +1,6 @@
 
 body{
-  padding: 2vh 7vw;
+  padding: 1vh 7vw;
 }
 header div{
   display: flex;
@@ -13,7 +13,6 @@ header div section:nth-child(1){
 header div section:nth-child(2){
   line-height: 0.5vh;
   flex: 1;
-
 }
 header h1{
   font-size: 8vh;
@@ -48,7 +47,16 @@ main article div:nth-child(2){
   margin-left: -25px;
   margin-right: 25px;
 }
-
+.exp article div:nth-child(2) h5{
+  font-weight: 300;
+  margin-bottom: 3px;
+  font-size: 15px;
+  line-height: 0;
+}
+.exp article ul {
+  margin-top: 2px 0;
+  padding-top: 0;
+}
 .exp article h5:first-child{
   font-weight: 600;
   line-height: 10px;
@@ -65,6 +73,9 @@ main article div:nth-child(2){
 }
 .exp h4{
   margin: 0;
+}
+.exp article div li{
+  line-height: 20px;
 }
 /* --------------- ref ---------------- */
 .ref h5{
