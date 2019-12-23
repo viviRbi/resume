@@ -13,7 +13,7 @@ header div section:nth-child(1){
 header div section:nth-child(2){
   line-height: 0.5vh;
   flex: 1;
-  text-align: right;
+
 }
 header h1{
   font-size: 8vh;
@@ -35,10 +35,10 @@ main article{
   align-items: flex-start;
 }
 main article div:first-child{
-  flex:2;
+  flex:1;
 }
 main article div:nth-child(2){
-  flex:4;
+  flex:3;
 }
 /* --------------- exp  ---------------- */
 .exp{
